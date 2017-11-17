@@ -1,0 +1,2 @@
+*.tar.gz filter=lfs diff=lfs merge=lfs -text
+./off-mongo-dump.tar.gz filter=lfs diff=lfs merge=lfs -text
